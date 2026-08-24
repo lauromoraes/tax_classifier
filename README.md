@@ -277,9 +277,3 @@ Biology*. 2021;17:e1009581. https://doi.org/10.1371/journal.pcbi.1009581
 Yilmaz P, Parfrey LW, Yarza P, et al. The SILVA and "All-species Living
 Tree Project (LTP)" taxonomic frameworks. *Nucleic Acids Research*.
 2014;42:D643--D648. https://doi.org/10.1093/nar/gkt1209
-
-## License
-
-No license is specified by this README. Add a `LICENSE` file appropriate
-for the intended distribution of the repository and verify the terms
-applicable to any redistributed SILVA data or derived resources.
